@@ -1,5 +1,5 @@
 # Wish.com-Product-Rating-Prediction
-We will be working with a tabular dataset. The dataset is not clean, and we will need some preprocessing depending on the models of our choice and i chosed 3 interesting models (NB, SVM, ).
+We will be working with a tabular dataset. The dataset is not clean, and we will need some preprocessing depending on the models of our choice (I processed the data in details that suited each model I used) and I chosed 3 interesting models (Naiive Bayes, SVM, Random forest).
 The dataset is the wish.com product dataset. We collected the data combined with some available data.
 Some nosies are added to the dataset. The goal is to predict the product ratings given the other features known for a product on Wish.com.
 
